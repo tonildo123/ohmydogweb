@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ohmydogweb/build/static/css/main.e6c13ad2.css",
+    "main.js": "/ohmydogweb/build/static/js/main.4f074be3.js",
+    "index.html": "/ohmydogweb/build/index.html",
+    "main.e6c13ad2.css.map": "/ohmydogweb/build/static/css/main.e6c13ad2.css.map",
+    "main.4f074be3.js.map": "/ohmydogweb/build/static/js/main.4f074be3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.4f074be3.js"
+  ]
+}
